@@ -1,0 +1,41 @@
+_repo: Subspeciation-in-Pocket-Gophers-of-Kansas--KU.-Vol.-1-No.-11-_36653
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Villa Ramírez, Bernardo
+    aliases:
+    - Villa, Bernardo
+    - Ramírez, Bernardo Villa
+    - Villa R., Bernardo (Villa Ramírez)
+    - Villa Ramirez, Bernardo
+    birthdate: 1911
+    gutenberg_agent_id: '36953'
+    url: http://www.gutenberg.org/2009/agents/36953
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36653'
+  lccn: '48045037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pocket gophers'
+- !lcsh 'Mammals -- Kansas'
+- !lcc 'QH'
+title: Subspeciation in Pocket Gophers of Kansas, [KU. Vol. 1 No. 11]
+url: http://www.gutenberg.org/ebooks/36653
